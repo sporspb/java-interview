@@ -1,6 +1,10 @@
+[Свёрстанные вопросы и ответы](book/Java_questions.pdf) [by Victoria Demidova](https://github.com/VictoriaDemidova)  
+[Telegram Bot](https://web.telegram.org/#/im?p=@DevInterviewBot) [by cmmttd](https://github.com/cmmttd)
+
 # Вопросы для собеседования на Java Developer
 
 + [ООП](#ООП) ![icon][done]
++ [JVM](#jvm) ![icon][done]
 + [Java Core](#java-core) ![icon][done]
 + [Java Collections Framework](#java-collections) ![icon][done]
 + [Java 8](#java-8) ![icon][done]
@@ -36,6 +40,16 @@
 + [Что подразумевают в плане принципов ООП выражения _«является»_ и _«имеет»_?](oop.md#Что-подразумевают-в-плане-принципов-ООП-выражения-является-и-имеет)
 + [В чем разница между _композицией_ и _агрегацией_?](oop.md#В-чем-разница-между-композицией-и-агрегацией)
 + [Что такое _статическое_ и _динамическое связывание_?](oop.md#Что-такое-статическое-и-динамическое-связывание)
+
+[к оглавлению](#Вопросы-для-собеседования-на-java-developer)
+
+## JVM
++ [За что отвечает JVM](jvm.md#За-что-отвечает-JVM)
++ [Classloader](jvm.md#Classloader)
++ [Области данных времени выполнения](jvm.md#Области-данных-времени-выполнения)
++ [Frames](jvm.md#Frames)
++ [Execution Engine](jvm.md#Execution-Engine)
++ [Полезные ссылки](jvm.md#Полезные-ссылки)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
@@ -89,6 +103,7 @@
 + [Каким образом передаются переменные в методы, по значению или по ссылке?](core.md#Каким-образом-передаются-переменные-в-методы-по-значению-или-по-ссылке)
 + [Расскажите про приведение типов. Что такое понижение и повышение типа?](core.md#Расскажите-про-приведение-типов-Что-такое-понижение-и-повышение-типа)
 + [Когда в приложении может быть выброшено исключение `ClassCastException`?](core.md#Когда-в-приложении-может-быть-выброшено-исключение-classcastexception)
++ [Что такое литералы?](core.md#Что-такое-литералы)
 + [Что такое _autoboxing («автоупаковка»)_ в Java и каковы правила упаковки примитивных типов в классы-обертки?](core.md#Что-такое-autoboxing-автоупаковка-в-java-и-каковы-правила-упаковки-примитивных-типов-в-классы-обертки)
 + [Какие есть особенности класса `String`?](core.md#Какие-есть-особенности-класса-string)
 + [Что такое «пул строк»?](core.md#Что-такое-пул-строк)
@@ -732,6 +747,12 @@
 ## Дополнительные материалы
 + [4 толковых канала на Youtube про технические собеседования](https://habr.com/ru/post/454264/)
 + [A list of fancy questions I've been asked during the interviews I had](https://github.com/d1mnewz/interviews)
++ [Job interview in English: как готовиться и что отвечать](https://dou.ua/lenta/articles/interview-in-english/)
++ [Senior Engineer в поисках работы. О задачах на технических собеседованиях и теоретических вопросах](https://habr.com/ru/post/442442/)
++ [What to ask an interviewer during a tech interview](https://hackernoon.com/what-to-ask-an-interviewer-during-a-tech-interview-865a293e548c)
++ [Spring Boot Interview Questions](https://www.baeldung.com/spring-boot-interview-questions)
++ [Top Spring Framework Interview Questions](https://www.baeldung.com/spring-interview-questions)
++ [Spring Interview Questions](https://www.interviewbit.com/spring-interview-questions/)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
