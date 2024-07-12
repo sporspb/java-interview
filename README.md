@@ -228,6 +228,7 @@
 + [Каково максимальное число значений `hashCode()`?](jcf.md#Каково-максимальное-число-значений-hashcode)
 + [Какое худшее время работы метода get(key) для ключа, которого нет в `HashMap`?](jcf.md#Какое-худшее-время-работы-метода-getkey-для-ключа-которого-нет-в-hashmap)
 + [Какое худшее время работы метода get(key) для ключа, который есть в `HashMap`?](jcf.md#Какое-худшее-время-работы-метода-getkey-для-ключа-который-есть-в-hashmap)
++ [Почему несмотря на то, что ключ в `HashMap` не обязан реализовывать интерфейс `Comparable`, двусвязный список всегда удается преобразовать в красно-черное-дерево?](jcf.md#Почему-несмотря-на-то-что-ключ-в-HashMap-не-обязан-реализовывать-интерфейс-Comparable-двусвязный-список-всегда-удается-преобразовать-в-красно-черное-дерево)
 + [Сколько переходов происходит в момент вызова `HashMap.get(key)` по ключу, который есть в таблице?](jcf.md#Сколько-переходов-происходит-в-момент-вызова-hashmapgetkey-по-ключу-который-есть-в-таблице)
 + [Сколько создается новых объектов, когда вы добавляете новый элемент в `HashMap`?](jcf.md#Сколько-создается-новых-объектов-когда-вы-добавляете-новый-элемент-в-hashmap)
 + [Как и когда происходит увеличение количества корзин в `HashMap`?](jcf.md#Как-и-когда-происходит-увеличение-количества-корзин-в-hashmap)
@@ -753,6 +754,7 @@
 + [Spring Boot Interview Questions](https://www.baeldung.com/spring-boot-interview-questions)
 + [Top Spring Framework Interview Questions](https://www.baeldung.com/spring-interview-questions)
 + [Spring Interview Questions](https://www.interviewbit.com/spring-interview-questions/)
++ [Hibernate Interview Questions](https://www.adaface.com/blog/hibernate-interview-questions/)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
